@@ -33,7 +33,7 @@ const Index = () => {
             className="w-full h-full object-cover"
           >
             <source
-              src="/F.mp4"
+              src="/1.mp4"
               type="video/mp4"
             />
           </video>
