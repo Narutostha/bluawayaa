@@ -92,7 +92,7 @@ export default function ThankYou() {
                   <div className="flex justify-center">
                     <div className="bg-white p-4 rounded-lg shadow-sm">
                       <img 
-                        src="../../public/qr.jpg" 
+                        src="/qr.jpg" 
                         alt="Fonepay QR Code" 
                         className="w-48 h-48"
                       />
